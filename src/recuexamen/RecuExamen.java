@@ -8,6 +8,7 @@ public class RecuExamen {
         System.out.println("Aquest es el main");
     }
     public static void hola(){
+        int x;
         System.out.println("Això es un hola");
     }
     public static void meitat(){
