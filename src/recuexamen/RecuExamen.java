@@ -12,7 +12,7 @@ public class RecuExamen {
         System.out.println("Això es un hola");
     }
     public static void meitat(){
-        int centre,hola;
+        int centre,hola,aqui_no;
         System.out.println("Aquest està a la meitat");
     }
     public static void fin(){
