@@ -13,7 +13,6 @@ public class RecuExamen {
     }
     public static void meitat(){
         int centre;
-        centre = 5;
         System.out.println("Aquest està a la meitat");
     }
     public static void fin(){
